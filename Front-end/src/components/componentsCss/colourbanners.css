@@ -1,0 +1,237 @@
+/*CSS STYLESHEET FOR BANNER 5 AND COLOUR BANNERS */
+
+#colourbanner{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 15px;
+}
+/* Banner 5 */
+#head{
+    color: black;
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Questrial', sans-serif;
+}
+#headingContainer{
+    margin-top: 5px;
+    line-height: 35px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#subtitle{
+    color: #4a4a4a;
+    font-family: 'Questrial', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+#banner5 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+}
+/* Red banner */
+#redBanner{
+    background: linear-gradient(0.38deg, #E5043E 32.14%, rgba(255, 255, 255, 0) 103.85%);
+    width: 96%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+    margin-left: 20px;
+    padding: 0px;
+    -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+}
+#red-banner-heading{
+    color: white;
+    text-align: left;
+    font-family: 'Questrial', sans-serif;
+    text-align: left;
+    font-size: 32px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 0px;
+}
+#red-banner-subtitle{
+    color: white;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+#red-text-box-wrapper{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;    
+        width: 100%;
+            /* margin-right: 15px; */
+            display: block;
+            margin-bottom: 10px;
+            padding-right: 15px ;
+            padding-left: 5px;
+}
+.text-box{
+    background-color: white;
+    display: block;
+    padding: 15px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+    margin-top: 5px;
+}
+#box-text{
+    width: 100%;
+    display: block;
+}
+.text{
+    font-family: 'Questrial', sans-serif;
+    text-align: justify;
+    color: black;
+}
+#button-container {
+    width: 100%;
+    margin-top: 10px;
+    display: -webkit-inline-box;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 0px;
+}
+.nav-fill .nav-item .nav-link,
+.nav-justified .nav-item .nav-link {
+    width: 100%;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+#colour-banner-button {
+    width: fit-content;
+    background-color: white;
+    padding: 10px;
+    margin: 0px;
+    color: #4a4a4a;
+    border: none;
+}
+
+/* orange banner */
+#orange-banner{
+    background: linear-gradient(89.91deg, #FFB652 0.1%, #F19F2E 99.08%, #F28C00 99.08%);
+    width: 96%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+    margin-left: 20px;
+    padding: 0px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+#orange-banner-header{
+    display: block;
+}
+#orange-banner-heading{
+    color: white;
+    text-align: left;
+    font-family: 'Questrial', sans-serif;
+    font-size: 32px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 0px;
+    }
+
+#orange-banner-subtitle{
+    color: white;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 0px;
+}
+.text-box-heading{
+    font-family: 'Questrial', sans-serif;
+    color: black;
+}
+#orange-text-box-wrapper {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    padding-left: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* blue banner */
+#blue-banner {
+    background: linear-gradient(89.91deg, #0CB89D 0.1%, #C4F4ED 128.6%);
+    width: 96%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+    margin-left: 20px;
+    padding: 0px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+
+}
+#blue-banner-heading{
+    color: white;
+    font-family: 'Questrial', sans-serif;
+    font-size: 32px;
+    text-align: left;
+}
+#blue-banner-subtitle{
+    color: white;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+#blue-banner-header-text{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 0px;
+    display: block;
+    width: 100%;
+}
+#blue-text-box-wrapper{
+    background-color: white;
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+#blue-text-box-heading{
+    text-align: left;
+    font-family: 'Questrial', sans-serif;
+    display: block;
+    color: black;
+}
+

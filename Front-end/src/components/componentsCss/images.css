@@ -1,0 +1,142 @@
+/* CSS STYLESHEET FOR ALL IMAGES */
+/* Logo */
+#logo {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+/* Main image */
+#img {
+    width: 16%;
+    margin: 0px;
+    padding: 0px;
+}
+#topImage {
+    float: left;
+    display: block;
+    width: 60%;
+    padding: 0px;
+    margin: 10px;
+}
+/* Image1 */
+#image1 {
+    float: right;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 60%;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+/* image2 */
+#img2{
+    width: 30%;
+    margin: 0px;
+}
+#image2 {
+    float: right;
+    width: 97%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+#img3{
+    width: 30%;
+        margin: 0px;
+            padding-left: 70px;
+            padding-bottom: 0px;
+            padding-top: 5px;
+            padding-right: 50px;
+            display: block;
+}
+#image3{
+    float: left;
+    width: 97%;
+    margin: 0px;
+        padding-top: 10px;
+            padding-bottom: 0px;
+            padding-right: 0px;
+            padding-left: 0px;
+}
+/* ColourBanner logos */
+.boxImage {
+    width: 100%;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+
+}
+#crypto-boxlogo{
+    width: 25%;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+#easyprop-boxlogo{
+width: 25%;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+.boxlogo {
+    float: left;
+    width: 25%;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
+#easyetfs-boxlogo{
+            width: 20%;
+            padding: 0px;
+            margin: 0px;
+            display: block;
+}
+/* Image banner */
+#logo-image-section {
+
+    display: -webkit-inline-flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border: 1px solid #DDDDDD;
+    align-items: center;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#logo-display {
+    padding: 15px;
+
+    margin: 0px;
+    width: 100%;
+    display: block;
+}
+#logos {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+
+}
+/* FooterLogo Image */
+
+
+#footerLogo{
+    display: block;
+        margin: 0px;
+        padding: 0px;
+        width: 33%;
+}

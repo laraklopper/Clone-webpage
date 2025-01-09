@@ -1,0 +1,82 @@
+#header {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    background-color: white;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, .04);
+}
+/* Navigation bar */
+#navigation-bar-container {
+    display: flex;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+#navigation-bar{
+    display: flex;
+    justify-content: center;
+}
+#navbar {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 5px;
+    align-items: stretch;
+        display: -webkit-inline-flex;
+        justify-content: center;
+
+}
+.navbar-expand {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    font-size: 16px;
+    width: 100%;
+        color: #4a4a4a;
+        font-weight: 600;
+}
+.nav-link{
+    display: block;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    font-size: 16px;
+    padding-top: 0px;
+    padding: 0px;
+    padding-left: 2px;
+    padding-right: 2px;
+    color: #4a4a4a;
+    font-weight: 600;
+}
+.navbar-dropdown{
+    display: block;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    font-size: 16px;
+    padding-top: 0px;
+    padding: 0px;
+    padding-left: 2px;
+    padding-right: 2px;
+    color: #4a4a4a;
+    font-weight: 600;
+
+}
+
+#loginBtn {
+  
+    margin-left: 100px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+}
+#headbtn1{
+    margin-left: 10px;
+        margin-right: 5px;
+        
+}

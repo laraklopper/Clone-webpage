@@ -1,0 +1,179 @@
+/* CSS FOR BANNER2, BANNER3, & BANNER4 */
+/* Banner Two */
+#banner2 {
+    width: 100%;
+    background-color: #7450A5;
+}
+#banner{
+    width: 100%;
+    margin: 0px;
+}
+#heading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+}
+#banner2Head {
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Questrial', sans-serif;
+    display: block;
+}
+.bannerText{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+#card{
+    background-color: #7450A5;
+    border: none;
+    height: 280px;
+    width: 150px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+.head{
+    color: white;
+}
+.textBlocks{
+    margin-top: 10px;
+}
+
+/* Banner 3 */
+#banner3{
+    width: 100%;    
+    display: block;
+    margin-top: 10px;
+}
+/* Text */
+#banner3Text{
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#banner3Head{
+    text-align: center;
+    color: black;
+    font-family: 'Questrial', sans-serif;
+    font-size: 30px;
+}
+.head4{
+    text-align: center;
+    color: black;
+    font-family: 'Questrial', sans-serif;
+    font-size: 21px;
+}
+/* button */
+#banner3Btn{
+    justify-content: center;
+    display: flex;
+    
+}
+#investBtn{
+    width: fit-content;
+    text-align: center;
+}
+/* Banner 4 */
+#banner4{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+#banner4Head{
+  display: block;
+  font-size: 30px;
+  font-family: 'Questrial', sans-serif;
+  text-align: center;
+}
+.blockWrapper{
+    display: inline-block;
+    width: 100%;
+    background-color: inherit;
+}
+.block{
+    text-align: center;
+    width: 30%;
+    margin: 20px;
+     border: 0px;
+    background-color: none;
+-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+
+}
+
+#blockOne{
+    background-color: #7450A5;
+    text-align: center;
+    padding-top: 25px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0px;
+        -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            border-radius: 10px;
+}
+.head3{
+    font-family: 'Questrial',sans-serif;
+    color: white;
+    text-align: center;      
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 0px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.block-text{
+    margin: 0px;
+    padding: 5px;
+    display: block
+
+}
+#blockTwo{
+    background-color: #0DDABA;
+    padding: 15px;
+    margin: 0px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+#blockThree{
+    background-color: #F4942A;
+    padding: 15px;
+    margin: 0px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+}
+#cardGroup{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
