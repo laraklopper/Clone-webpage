@@ -1,0 +1,186 @@
+/* body */
+#root{
+  display: block;
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  display: block;
+}
+/* container */
+.container{
+  margin: 0px;
+  padding: 0px;
+  display: block;
+
+}
+.row{
+  display: block;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.col{
+  display: block;
+  margin: 0px;
+  padding: 0px
+}
+.btn {
+  padding: 0px;
+  width: fit-content;
+  margin: 2px;
+  width: 78px;
+  height: 40px;     
+}
+#header {
+  display: block;
+  width: 100%;
+  padding: 0px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#buttons{
+  display: block;
+  margin: 0px;
+  padding-top: 5px;
+  /* float: right; */
+  padding-left: 40px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+#bannerText{
+  font-family: 'Questrial', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  margin-bottom: 34px;
+  margin: 0px;
+  /* display: flex; */
+}
+#investNum{
+  font-family: 'Questrial', sans-serif;
+  color: #ed1747;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  font-size: 39px;
+}
+#section1 {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+  display: block;
+
+}
+#section2{
+  text-align: center;
+  width: 100%;
+  justify-content: center;
+  padding: 0px;
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+#text{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+#button2{
+  display: block;
+  width: fit-content;
+  margin: 0px;
+  padding: 7px;
+
+}
+#bannerBtn{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 10px;
+}
+#banner{
+  justify-content: center;
+  width: 100%;
+  padding: 0px;
+  display: inline-grid;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 5px;
+}
+
+#banner2Head {
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  font-family: 'Questrial', sans-serif;
+  display: block;
+}
+#banner2{
+  background-color: #7450A5;
+  width: 100%;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  display: block;
+  margin-top: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+#bannerBlocks{
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+  margin-right: 50px;
+  border: none;
+  width: 80%;
+}
+#section3{
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 6px;
+  display: block;
+}
+#section4{
+  background-color: #f7f7f7;
+  display: block;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#section5{
+  background-color: white;
+  display: block;
+  width: 100%;
+  margin: 0px;
+
+}
