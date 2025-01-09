@@ -1,3 +1,3 @@
 # Clone-webpage
 
-Clone of the easy equaties webpage
+Front-end React.js clone website of the easy equaties webpage.
